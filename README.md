@@ -11,17 +11,20 @@ trabalho CrudMobile para a materia de gerencia e configuração de softwares da 
 * css
 * javascript
 
+## Pre-requisitos
+* npm v 9
+* node v 18
+
 ## Installation 🛠️
 
 ```bash
-$ 
+$ npm install
 ```
 
 ## Running the API ⚡
 
 ```bash
-# 
-$ 
+$ npm run dev
 ```
 
 ## Authors 🤵🏽
